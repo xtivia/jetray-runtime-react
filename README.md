@@ -1,5 +1,5 @@
 # jetray-runtime-react
-Webpack generated "runtime" for React used by JetRay portlet generator
+Webpack generated "runtime" for React used by Jetray portlet generator
 
 TL;DR
 
